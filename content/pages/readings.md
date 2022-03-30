@@ -121,7 +121,7 @@ McAllister, Max. "[Haas Effect: What It Is and How It's Used](https://producelik
 
 Anderson, Ken and Jane McGonigal. 2004. "Place Storming: Performing New Technologies in Context." _Proceedings of NordiCHI '04_, October 23–27, 2004 Tampere, Finland.
 
-Oulasvirta, Antti, Esko Kurvinen, and Tomi Kankainen. 2003. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Understanding Contexts by Being There: Case Studies in Bodystorming (PDF)](https://www.ida.liu.se/divisions/hcs/ixs/material/serviceinnovation_X_design10/2%20Additional%20readings/bodystorming.pdf)." _Personal Ubiquitous Comput._ 7 (2): 125–34.
+Oulasvirta, Antti, Esko Kurvinen, and Tomi Kankainen. 2003. "[Understanding Contexts by Being There: Case Studies in Bodystorming (PDF)](https://www.ida.liu.se/divisions/hcs/ixs/material/serviceinnovation_X_design10/2%20Additional%20readings/bodystorming.pdf)." _Personal Ubiquitous Comput._ 7 (2): 125–34.
 
 
 {{< tdclose >}}
@@ -195,9 +195,9 @@ The Design Process & Prototyping
 
 Eladhari, Mirjam P., and Elina M. I. Ollila. 2012. "Design for Research Results Experimental Prototyping and Play Testing." _Simulation & Gaming_ 43 (3): 391–412.
 
-Lim, Youn-Kyung, Erik Stolterman, and Josh Tenenberg. 2008. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Anatomy of Prototypes: Prototypes as Filters, Prototypes as Manifestations of Design Ideas (PDF - 1.7MB)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.499.9367&rep=rep1&type=pdf)." _ACM Trans. Comput.-Hum. Interact._ 15 (2): 7:1–7:27.
+Lim, Youn-Kyung, Erik Stolterman, and Josh Tenenberg. 2008. "[The Anatomy of Prototypes: Prototypes as Filters, Prototypes as Manifestations of Design Ideas (PDF - 1.7MB)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.499.9367&rep=rep1&type=pdf)." _ACM Trans. Comput.-Hum. Interact._ 15 (2): 7:1–7:27.
 
-Höök, Kristina, and Jonas Löwgren. 2012. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Strong Concepts: Intermediate-Level Knowledge in Interaction Design Research (PDF)](http://mobilelifecentre.org/sites/default/files/a23-hook.pdf)." _ACM Trans. Comput.-Hum. Interact._ 19 (3): 23:1–23:18.
+Höök, Kristina, and Jonas Löwgren. 2012. "[Strong Concepts: Intermediate-Level Knowledge in Interaction Design Research (PDF)](http://mobilelifecentre.org/sites/default/files/a23-hook.pdf)." _ACM Trans. Comput.-Hum. Interact._ 19 (3): 23:1–23:18.
 
 
 {{< tdclose >}}
